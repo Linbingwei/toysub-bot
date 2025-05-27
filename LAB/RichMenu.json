@@ -1,0 +1,71 @@
+{
+  "size": {
+    "width": 1091,
+    "height": 681
+  },
+  "selected": true,
+  "name": "Toysub 主選單",
+  "chatBarText": "選單",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 653,
+        "height": 341
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://toysub.tw/"
+      }
+    },
+    {
+      "bounds": {
+        "x": 653,
+        "y": 0,
+        "width": 438,
+        "height": 341
+      },
+      "action": {
+        "type": "message",
+        "text": "客服機器人"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 341,
+        "width": 327,
+        "height": 340
+      },
+      "action": {
+        "type": "message",
+        "text": "會員租用方案"
+      }
+    },
+    {
+      "bounds": {
+        "x": 327,
+        "y": 341,
+        "width": 327,
+        "height": 340
+      },
+      "action": {
+        "type": "message",
+        "text": "新品介紹"
+      }
+    },
+    {
+      "bounds": {
+        "x": 654,
+        "y": 341,
+        "width": 437,
+        "height": 340
+      },
+      "action": {
+        "type": "message",
+        "text": "優惠方案"
+      }
+    }
+  ]
+}

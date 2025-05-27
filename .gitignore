@@ -1,0 +1,5 @@
+LAB/__pycache__/RAG.cpython-38.pyc
+LAB/faiss_index/index.faiss
+LAB/faiss_index/index.pkl
+LAB/memory_vectorstore/index.faiss
+LAB/memory_vectorstore/index.pkl

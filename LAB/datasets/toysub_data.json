@@ -1,0 +1,702 @@
+[
+      {
+        "id": 1,
+        "question": "The target age range for TOYSUB users is from what age to what age?",
+        "input": "Recommended Age:Our service is suitable for children from 3 months after birth up to 6 years old.Upper Age Limit:Even after turning 6, if your child enjoys our toys, they are welcome to continue using them. Some board games and other toys have more complex rules, making them enjoyable for children over 6 to play together with parents or siblings. There is no upper age limit for using our toys.Lower Age Limit:From 0 to 3 months after birth, babies begin to recognize their surroundings with their eyes—this is the perfect time to start using educational toys.",
+        "output": "Infants and young children aged 3 months to 6 years old are most suitable for our service! However, even if they are over 6 years old, you can continue to use our toys if you like them. There are some board games with complex rules that can be played by children over the age of 6 with a parent or sibling, so there is no upper age limit for use.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 2,
+        "question": "Are there any restrictions on TOYSUB services?",
+        "input": "Restrictions on residence: Our main service targets are those living in Taiwan, Penghu, Kinmen and Matsu. We do not provide other overseas delivery services. Payment method restrictions: Service fees must be paid by credit card. In some cases, debit cards cannot be used for payment. Please register your debit card when applying for the plan. If it cannot be used, please register another credit card.",
+        "output": "We mainly serve users living in Taiwan, Penghu, Kinmen and Matsu, and do not provide other overseas delivery services. Payment must be made via credit card. Please note that in some cases debit cards cannot be used for payment. If this is not possible, please register another credit card.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 3,
+        "question": "What happens if the payment fails or the address is incorrect?",
+        "input": "We need to contact you to confirm the status of delivery or payment. If your credit card payment fails or your shipping address is incorrect. If we can't contact you by email or phone, we may not be able to send you the toy and may have to cancel your subscription, so please be sure to register an email address and phone number so that we can contact you if you apply.",
+        "output": "If your credit card payment is unsuccessful or the shipping address you provided is incorrect, we will need to contact you to confirm the relevant information. If we are unable to contact you via the email or phone number you provided, it may affect the delivery of the product or even result in the cancellation of your subscription. In order to ensure that the toys are delivered on time and the payment process is completed smoothly, please be sure to fill in the correct email address and contact number when subscribing so that we can contact you proactively when necessary.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 4,
+        "question": "Can I apply for the plan during the prenatal period?",
+        "input": "Yes, you are very welcome to apply for the service during pregnancy. As soon as the baby is born, they will receive toys suitable for infants, which reduces the need for parents to prepare toys for the baby during pregnancy. (Monthly subscription requires a minimum of 5 issues). Please rest assured that no fees will be charged until the toy is received.",
+        "output": "Yes! You are very welcome to apply for TOYSUB service during pregnancy. Children can receive suitable toys as soon as they are born, reducing the burden on parents. Note: Monthly subscriptions must start from 5 periods, and no fees will be charged until the toy is received.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 5,
+        "question": "Who is choosing toys and age-appropriate toys?",
+        "input": "We have dedicated toy planning specialists who have received internal professional training and are responsible for selecting toys. Toysub! leverages years of big data accumulated from Japan and Taiwan, combined with an AI-powered system, to deliver personalized toy selections tailored to each child. Additionally, feedback forms from parents and information on toy usage are used as references for future deliveries. Toysub! strives to provide educational toys that best support children's developmental stages.",
+        "output": "We have dedicated toy planners to select toys. Toysub! has accumulated many years of big data in Japan and Taiwan, and combined with the AI ​​artificial intelligence system, it can deliver suitable toys to each child. Parents' feedback forms and toy usage status will be used as reference for the next toy delivery. Toysub will try its best to provide educational toys that are suitable for growth.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 6,
+        "question": "Can siblings be individually identified or distinguished in an application form?",
+        "input": "We offer a service that delivers age-appropriate toys for siblings of different ages in the same household.Suitable age range: From 3 months to 6 years old.Toy distribution: In principle, we allocate the same number of toys to each child.For example, if there are three siblings, each child will receive two toys.The number of toys can be adjusted. If parents have other requests, they are welcome to contact our customer service team.",
+        "output": "Yes! We can provide toys of different ages for siblings at home. In terms of toy distribution, we allocated the same number of toys to each child. For example: If there are three siblings, each child will receive two toys. If you have other needs, please contact us through customer service.",
+        "TOPIC":"Questions about our services and terms of use."
+      },
+      {
+        "id": 7,
+        "question": "In addition to applying online on the official website, are there other ways to apply?",
+        "input": "No application will be accepted by any other means except this website. (If you have any subscription issues, please contact customer service).",
+        "output": "We are currently only open for web applications. If you have any questions, please contact customer service.",
+        "TOPIC":"Inquiry about new member registration."
+      },
+      {
+        "id": 8,
+        "question": "Are there any discounts or promotions?",
+        "input": "We occasionally offer different promotional activities or seasonal discounts. Please pay attention to Toysub official website or social media information.",
+        "output": "We will provide different promotional activities and seasonal discount projects from time to time. You can follow Toysub! official website or social media information for details.",
+        "TOPIC":"Inquiry about new member registration."
+      },
+      {
+        "id": 9,
+        "question": "Are there any trial or temporary use plans?",
+        "input": "Currently, we do not offer short-term or trial plans. A child's development requires long-term inspiration and education.Monthly Subscription Plan: The minimum subscription period is 5 months, with no maximum duration or expiration limit. Cancellations are not allowed before completing 5 months.Annual Subscription Plan: Billed annually as a one-time payment. Cancellations are not allowed before completing 12 months.",
+        "output": "Sorry, we currently do not offer short-term or trial plans. We firmly believe that children's growth process requires long-term inspiration and education. We offer two plans: the monthly subscription plan has a minimum subscription period of 5 periods, and the annual subscription plan is charged annually and is a one-time payment.",
+        "TOPIC":"Inquiry about new member registration."
+      },
+      {
+        "id": 10,
+        "question": "Can I apply by phone and pay by remittance?",
+        "input": "We are sorry, but we only offer this website for applications and payment by credit card.",
+        "output": "We are sorry, but at this time we only offer website applications and payment must be made by credit card.",
+        "TOPIC":"Inquiry about new member registration."
+      },
+      {
+        "id": 11,
+        "question": "What toys can be rented at TOYSUB?",
+        "input": "We provide age-appropriate toys, carefully selected by infant toy experts, and tailored based on gender, preferences, and interests. Our curated selection includes toys with natural warmth, three-dimensional textures, and vibrant colors.Wooden Toys: A variety of options including building blocks, track toys, pretend play sets, stacking toys, toy hammers, and more.Electronic Toys: Pianos, remote controls, toy cars, interactive electronic books, drums, and bilingual toys featuring multiple languages.Excluded from Rental: We do not offer rentals for large-sized toys, bath toys, character-based or licensed toys, or media products such as DVDs or Blu-rays.",
+        "output": "The toys we provide have natural temperature, three-dimensional sense, rich colors and other characteristics. They are selected by baby toy experts and we provide you with suitable toys according to gender, hobbies, etc. These include wooden toys such as building blocks, driveway toys, pretend play, toy mallets, etc.; electronic toys include pianos, remote controls, toy cars, electronic picture books, bilingual toys in multiple languages, etc. We do not offer large toys, bath toys, dolls with copyrighted portraits, movies (DVD or Blu-ray DVD), etc.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 12,
+        "question": "Will the toys I send be duplicates of toys I already have at home?",
+        "input": "Please don't worry! When you apply, you will need to fill out an application for membership. If you tell us which toys you have at home, our dedicated planners will select toys to ship to you that don't overlap with the ones you have at home. In addition, if you have new toys at home later, you can also contact customer service to avoid sending duplicate toys.",
+        "output": "Please don't worry! When filling out the membership application, you can tell us what toys you have at home, and our toy planners will select toys that are not duplicated in your home to deliver to you. In addition, if you add new toys to your home later, you can also contact us through customer service to avoid sending duplicate toys.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 13,
+        "question": "Can I make a wish or request a specific toy?",
+        "input": "You can wish for a specific toy. You can make your request through customer service contact, such as the name of a specific toy, or the function/category of a toy (for example, if you want to learn a foreign language, or if you want your child to practice walking in a stroller). Note: Due to capacity limitations of delivery boxes, inventory availability and toy safety standards, we may not be able to meet your request and cannot guarantee that your request will be met.",
+        "output": "Yes! You can contact customer service to make your request, such as the name, function, category, etc. of a specific toy. (For example, if you want to learn a foreign language, if you want your child to practice walking in a stroller). Please note: Due to shipping box capacity limitations, inventory availability and toy safety standards, we cannot guarantee that your request will be met. Thank you for your understanding.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 14,
+        "question": "How is the hygiene of Toysub toys handled?",
+        "input": "Toysub uses different cleaning and disinfecting methods depending on the material each toy is made of. 1. Material classification: velvet, plastic, wood, silicone. 2. Cleaning methods: high-pressure air dust removal, food-grade infant enzyme cleaning liquid, food-grade 75% alcohol, antibacterial liquid, and ultraviolet disinfection. 3. Process: Plush toys: gently rub with cleaning solution and wash by hand - air dry in the sun - sterilize at high temperature. Plastic toys, high-pressure dust removal - alcohol disinfection - detail cleaning. Wooden toys - high pressure dust removal - antibacterial liquid disinfection - detail cleaning. Silicone toys, high-pressure dust removal - antibacterial liquid disinfection - detail cleaning.",
+        "output": "Toysub takes baby's safety and hygiene very seriously. We provide different cleaning and disinfection methods depending on the material of the toy. For cloth toys, we will first wash them by hand with soap, dry them and then sterilize them at high temperature; if they are difficult to wash by hand, we will use alcohol disinfectant wipes or food-grade enzyme cleaning solution to remove the attachments before washing. Wooden and plastic toys are first subjected to high-pressure dust removal, then disinfected with a weakly acidic hypochlorous acid antibacterial solution that is considered highly safe, and finally cleaned in detail. If you have any questions about the toys you received, please contact us through customer service and we will help you as soon as possible.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 15,
+        "question": "What are Toysub’s prevention and treatment measures for the new coronavirus?",
+        "input": "Toysub! has taken the following measures against the new coronavirus. COVID-19 prevention measures in the office: appropriate number of employees and ensuring distance, wearing masks, disinfection facilities at home for employees who work, frequent hand washing and gargling for people entering and leaving the office, temperature checks and cough checks, increasing the frequency of hand sanitizer (75% alcohol content), humidification and ventilation. COVID-19 prevention measures when cleaning toys: Cleaning and disinfection vary depending on the material of the toys, and we spend more time than before on cleaning and disinfection.",
+        "output": "Toysub! has taken a number of strict prevention and control measures against the new coronavirus to ensure the safety of employees and customers. In the office, we control the appropriate number of employees, ensure social distance, require all employees to wear masks, and have disinfection facilities at home. People entering and leaving the office are required to wash their hands and rinse their mouths regularly, and undergo health checks such as temperature and cough checks. At the same time, the frequency of use of alcohol-based hand sanitizer (75% alcohol concentration) should be increased, and indoor air quality should be maintained through humidification and regular ventilation. In terms of toy cleaning, Toysub! has invested more time and effort than ever before in detailed cleaning and disinfection according to the needs of different materials to reduce the risk of virus residue and ensure that every toy received by every child is safe.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 16,
+        "question": "What should you do if a battery-powered toy stops working?",
+        "input": "In this case, please try replacing the (carbon-zinc) battery first. If the problem still cannot be solved, please contact us at customer service and provide the following information: 1. Name of the toy 2. The battery has been replaced but it still does not work 3. The specific situation of the problem.",
+        "output": "When a battery toy stops working, it is recommended that you first try replacing it with a new carbon-zinc battery to rule out the possibility of low battery or poor contact. If the toy still does not work after replacing the battery, please contact us through customer service and provide the following information for further assistance: 1. Name of the toy 2. Description of the situation where the toy still does not work after trying to replace the battery 3. The specific phenomenon of the toy not working (such as no sound, no light, no button response, etc. We will help you confirm the product status as soon as possible and provide corresponding solutions.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 17,
+        "question": "If the child is not interested in the toys delivered, what could be the reason?",
+        "input": "It’s possible that the child has not yet discovered or understood the fun and ways to play with the toy, or they may have found something else more interesting than the toy. Another possibility is that we may have selected a toy intended for slightly older children based on the child’s developmental progress, which could make it too challenging and cause them to lose interest.If your child shows disinterest in a particular toy, you can encourage them to play together with you. When children see their parents engaging with the toy, it can spark their interest and help them start enjoying it.Observing how your child interacts with each toy and providing feedback to us can help us make better toy selections or adjustments for the next delivery.",
+        "output": "If your child is not interested in a delivered toy, there could be several reasons. First, the child may not yet understand how to play and how fun the toy is, and needs guidance and demonstration from adults to stimulate his interest. Second, the child may find that there are things around him that are more attractive to him than toys, such as remote controls, tableware, or other daily necessities. This is a natural expression of the baby exploring the world. Alternatively, it may be that we choose toys that are geared towards older age groups, which are too challenging for children and lead to frustration and loss of interest. When encountering this situation, it is recommended that parents can accompany their children to operate the toys together, stimulate curiosity and participation through parent-child interaction; at the same time, observe the interaction between the children and the toys, which can be used as a reference for the next toy selection, so as to provide a learning and gaming experience that is closer to the children's growth stage.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 18,
+        "question": "Can a toy you don't like be replaced with another toy?",
+        "input": "We are very sorry that we are unable to replace the toy in a timely manner. Toys can be replaced after each month.",
+        "output": "We are very sorry that we can only replace toys after the expiration of each month and cannot replace toys in time. Please forgive me.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 19,
+        "question": "What should I do if a toy or toy parts are lost?",
+        "input": "In the event of a loss, please assist in locating the missing toy or parts during the rental period. We hope you can find the missing components within this time. If any parts are damaged, we will seek compensation for the corresponding loss.",
+        "output": "If you encounter a situation where toys and parts are lost, please help find the toy or parts during the rental period. We hope that you can find the lost parts during this period.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 20,
+        "question": "What should I do if the toy is seriously damaged?",
+        "input": "If the damage is so severe that you can no longer play with it, you must purchase this toy. Including improper use of toys, improper repair and damage, intentional damage, serious defacement.",
+        "output": "If you use the toy improperly, repair or damage the toy improperly, intentionally damage the toy, or seriously deface the toy, causing damage to the toy parts, we will claim compensation from you for the corresponding losses. If the damage is so severe that you can no longer play with the toy, you must purchase the toy.",
+        "TOPIC":"About Toys."
+      },
+      {
+        "id": 21,
+        "question": "How long does it take to receive the toy after the first application?",
+        "input": "Normally, you will receive the toys within 2–3 business days after your order is confirmed.In some cases, your order may take longer to be shipped. Below are situations and information that may cause a delay in shipment:1.There is an error in your application information, and we need to verify it again.2.Applications for pregnant mothers or children under 3 months old — toys will be delivered based on member needs.3.Public holidays, long weekends, or uncontrollable events such as natural disasters or suspension of work/school — shipping will be arranged after the holidays.",
+        "output": "You will usually receive your toy within 2-3 business days after your initial request. However, if there are special circumstances, such as incorrect application information, national holidays, long holidays, natural disasters and other force majeure factors, the delivery time may be delayed, and will be arranged after the situation is resolved. In addition, if the baby is less than 3 months old, we will deliver toys according to member needs, and it may take more time to ship. If there is any information that needs to be supplemented, please reply as soon as possible to ensure smooth shipment.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 22,
+        "question": "After the first application, when will the toys be shipped?",
+        "input": "Starting from the second delivery onwards, we will follow the return date indicated on the enclosed information sheet. A new set of toys will be delivered based on the feedback form returned in the box. You can expect to receive the new toy box within 3 days.Please note that delivery may be delayed or suspended due to the following reasons:1.Next payment not completed: This could be due to incorrect credit card information or other payment issues.2.Unclear exchange details: For example, missing toys or incomplete return information.3.Weather or traffic conditions: Delivery adjustments may occur depending on weather, road conditions, or logistics provider circumstances.",
+        "output": "After the initial application, the toys will be shipped immediately after the application is completed and the payment is confirmed. Usually, you can receive the first batch of toy boxes within 3 days. Each subsequent delivery will be adjusted according to the feedback form and recycling date you filled out with the box to ensure that the new batch of toys can be sent on time. Failed payment, incomplete collection information, or weather and traffic conditions may result in delivery delays.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 23,
+        "question": "Do you provide climbing toys, slides and other ride-on toys or large toys for indoor use?",
+        "input": "We are very sorry that we do not provide large toys. TOYSUB provides educational toys that must be packed in the shipping cartons. In addition, we do not provide bathing toys in the bathroom due to hygiene reasons.",
+        "output": "We are very sorry, we only provide educational toys that must be stored in cartons, so we do not provide large toys, and we do not provide bathroom and bathing related toys due to hygiene reasons.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 24,
+        "question": "Can I specify a delivery arrival time?",
+        "input": "Yes, in general you can specify the time of delivery to your home.",
+        "output": "Yes, you can contact us to specify the time of delivery to your home.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 25,
+        "question": "Can we discuss the contents of the toy before delivery?",
+        "input": "For the first delivery, we will select the most suitable toys based on the form you fill out and the instructions included in the box. For the second and subsequent deliveries, adjustments will be made to the children's toys based on the feedback received on each return. For other situations, such as adjustments for siblings at home, please contact customer service to discuss.",
+        "output": "Sure. Although we will select the most suitable toys according to the form you fill out and your child's development status for the first delivery, and attach detailed instructions in the box, if you have special preferences or requirements for the toy content, you are also welcome to contact customer service to discuss before delivery. We will try our best to make adjustments based on your feedback to ensure that the toys we receive each time are close to your child's growth and interests.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 26,
+        "question": "What should I do if I receive a toy without the instruction manual?",
+        "input": "We sincerely apologize for any inconvenience caused. Please contact us through Customer Service.",
+        "output": "We apologize for any inconvenience this may cause you. Please contact us through our customer service.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 27,
+        "question": "What should I do if the address for shipping toys has changed?",
+        "input": "If you need to change the shipping address, please contact 'Customer Service' and we will solve the problem for you.",
+        "output": "Please contact customer service and we will help you change the shipping address.",
+        "TOPIC":"About delivery issues."
+      },
+      {
+        "id": 28,
+        "question": "What steps are involved in the toy exchange and process?",
+        "input": "Toy Exchange Policy and Process:After using the toys for 30 days each month, you may proceed with the toy exchange. The exchange date for each period is indicated inside the member folder included in the package.Exchange Process:1.Toy Delivery: Toysub! delivers the new toys to your home each period.2.After 30 Days: Once the toys have been used for 30 days, please organize and place them at the designated community area or your home location on the specified date for pickup by Yamato Transport.3.Toy Return & Feedback: Returned toys are inspected by our team. Based on your feedback form, we will adjust the toy selection for the next period.4.New Delivery: The next set of toys will then be delivered to your home.This completes one full toy exchange cycle.Important Notes:1.You may also choose to keep all current toys and skip the exchange.2.If you wish to continue using the same toys in the next period, simply let us know and no exchange will be necessary.3.You may also choose to continue with individual toys. If so, please inform us before the scheduled pickup date and do not include those items in the return box.",
+        "output": "The toy exchange process includes the following four main steps: 1. Delivery of new toys: Each issue of Toysub! will deliver new toys to your home according to the schedule. 2. Recycling of old toys after 30 days: After the toys have been used for 30 days, please sort them out and place them at the designated location in the community or home according to the designated date marked in the member folder, and hand them over to Black Cat Logistics for recycling. 3. Recycling inspection and selection adjustment: After the toys are recycled to the company, Toysub! will inspect them and adjust the content of the next batch of toys based on the feedback form you filled out. 4. Send out a new round of toys: A new round of selected toys will be delivered to your home, completing a complete toy exchange process. Additionally, parents can choose not to replace all or specific toys. If you wish to keep some or all of your existing toys, simply notify customer service before the recycling date and state 'no need to exchange', and the toy will not need to be put in the recycling bin.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 29,
+        "question": "Is it possible to ship the next batch of toys earlier?",
+        "input": "Sorry, we are unable to provide toys earlier due to customer convenience.",
+        "output": "Sorry, we are unable to provide toys earlier due to customer demand. We apologize for the inconvenience.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 30,
+        "question": "What should I do if I want to extend the period of a toy I like or return a toy I don’t like?",
+        "input": "Toy extension: Just check 'Continue' on the questionnaire form. When recycling toys, please do not put this toy in the bin. If you like any of the educational toys sent to your home, you can directly extend the rental period. Note: For example, if you send 6 toys and want to extend the rental time of 2 of them, the other 4 can be returned first. The next batch of toys to be sent will contain 4 items. There is no additional charge for extending the rental of this toy, and it can be extended multiple times. Returning toys: Sorry, we cannot do that. You have to wait until the next delivery time to exchange them. Thank you for your understanding.",
+        "output": "If you have a favorite toy that you want to extend the rental period, or want to return a disliked toy in advance, the recommended approach is as follows: Check the toy you want to extend the rental period on the questionnaire form, and the system will automatically reserve the toy for you and extend the rental period at no additional charge. If there are toys that you no longer want to use, please do not check the extension option and return them when you change toys next time. It should be noted that toys can only be replaced in the next shipment and cannot be returned in advance. Please understand. Therefore, if you receive 6 toys, of which you want to extend 2 and return 4, you will receive 4 new toys as replacements next time, and the extended 2 will continue to be in your hands for use.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 31,
+        "question": "How do I know when toy recycling day is?",
+        "input": "Each time toys are delivered, a member information sheet is included in the box, which will indicate the toy recycling date or contact customer service to solve your problem.",
+        "output": "You can check the membership information sheet included in each toy delivery box, which will indicate the toy recycling date. You can also contact customer service to ask us.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 32,
+        "question": "How to pack toys for recycling?",
+        "input": "Return Deadline:We will ship your next set of toys only after we receive the returned toys from the previous cycle. The return deadline is noted on the membership slip included in the box. If you are unsure about the date, please contact our customer service for assistance. Kindly ensure that you pack the toys and have them ready at the designated return location within the specified return period.Packing Instructions:Please place all toys and accessories into the original box we used for the previous shipment. Be sure to count the items before returning. If you have chosen to continue using certain toys, please keep them and do not include them in the return box. Make sure no parts are missing. If any items are lost, please contact our customer service for assistance.Return Method:Place the return box at your designated return location. Black Cat Logistics will collect the box on the scheduled date. There is no need for you to go out to handle the return. To protect your rights, please follow the return schedule. Your next set of toys will also be delivered on time.",
+        "output": "When you want to recycle toys and prepare to return them, please put all the toys and accessories to be returned properly in the original carton we sent you last time. Please pay special attention to the number of toys and accessories. If there are toys that you choose to continue using, please keep them and do not put them in the box. Please make sure that no parts are missing when packing to avoid the need to replenish parts or contact customer service for assistance. After packing, please place the cartons at your designated return location according to the return time indicated on the membership form. We will send Black Cat Logistics to collect the parcels on the designated date, so you don’t need to go out extra. To ensure that the next batch of toys can be sent out on time, please be sure to cooperate and complete the return within the specified time.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 33,
+        "question": "What items must be returned upon return?",
+        "input": "Packing method: Please put the toy body and accessories into the carton. Toy packaging transparent bag: You can choose to put the toy and its accessories into the carton together with the toy body before use. Toy manual and other information: Please put the toy manual and feedback form together in the carton.",
+        "output": "According to the packing instructions, the following items must be returned: the toy itself, accessories, transparent packaging bag (if any), toy instruction manual and feedback form. Please return all the above items together in a carton, ensuring that the original contents are returned intact.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 34,
+        "question": "What should I do if the toy's accessories are lost and found later?",
+        "input": "Please contact customer service to resolve your issue. Basically, once you find the toy accessories, you can put them in the next toy return box for recycling.",
+        "output": "Please contact customer service, or you can put the toy accessories you find into the next toy return box for recycling.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 35,
+        "question": "Can I return it in a box other than the original one?",
+        "input": "n principle, please return the toy in its original carton. If the original carton is damaged or lost, please prepare a new one. But you need to fit all the toys in the right size. Attention, Toysub Carton size: length, width and height are 115cm.",
+        "output": "In general, please return the toy in its original carton. If the original carton is damaged or lost, please prepare a carton with a length, width and height of 115 cm and put all the toys in it.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 36,
+        "question": "When returning a toy box, can I put it in two separate boxes for recycling?",
+        "input": "Due to shipping costs and toy inventory reasons, we always use one carton as the shipping unit. When returning the toys, please place all the toys in the same carton for recycling. Thank you for your understanding and cooperation.",
+        "output": "Sorry, due to shipping costs and toy inventory reasons, we always use one carton as the shipping unit. When returning the toys, we hope that all the toys will be placed in the same carton for recycling. Thank you for your understanding and cooperation.",
+        "TOPIC":"About toy exchange and recycling."
+      },
+      {
+        "id": 37,
+        "question": "What parts do the various plans and the periodic quota system include?",
+        "input": "Plan Introduction:1.Monthly Plan: NT$688 per month, with a regular monthly toy exchange. (A minimum subscription of 5 months is required.)2.Annual Plan: NT$8,256 per year, with a regular monthly toy exchange. (Cancellation is not allowed during the subscription period.)We occasionally launch promotional offers. Please check our official website for updates.Billing Cycle:The monthly billing date is based on your service subscription date.The toy usage period is calculated from the day you receive the toys and lasts for 30 days.The next exchange date will be noted in the member information included in the box.For the monthly plan, your credit card will be automatically charged on the same day each month (the date of your subscription).For the annual plan, your credit card will be charged on the same day each year (the date of your subscription).Plan Changes and Cancellations:You may upgrade from the monthly plan to the annual plan at any time (cancellation is not allowed mid-term), and the subscription period will be recalculated.The annual plan requires a full 12-month commitment and cannot be canceled or refunded mid-term.Monthly Plan Notes:1.Toysub! is a subscription-based service providing educational toys for young children.2.A fixed rental fee is charged during the toy rental period.3.Toysub! reserves the right to adjust the pricing and service content.",
+        "output": "Plan introduction: 1. Monthly plan: Monthly fee NT$ 688, toys will be replaced regularly every month. (No less than 5 orders can be made). 2. Annual plan: Annual fee NT$ 8,256, toys will be replaced regularly every month. (Cancellation is not allowed midway). We will launch preferential plans from time to time, please refer to the official website for information. Periodic calculation: The monthly deduction date is based on the service application date. The toy usage period is 30 days from the date the member receives the toy. The next toy exchange date will be noted in the member information inside the box. For example, if you choose monthly payment, your credit card will be automatically deducted on the same day of each month (membership application day). If you choose to pay annually, the payment will be deducted on the same day of each 12-month period (membership application date). Plan change and termination: The monthly plan can be changed to an annual plan (cannot be cancelled during the plan), but the number of periods must be recalculated. The annual plan must be used for 12 months after application, and no cancellation or refund is allowed during the period. Notes on monthly fees: 1. Toysub! is a subscription service for educational toys for young children. 2. A fixed rental fee will be charged during the toy rental period. 3. Toysub! has the right to adjust the fees and service contents.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 38,
+        "question": "Are there any additional shipping charges for toy shipments?",
+        "input": "The shipping cost will be borne by Toysub! It is included in the rental cost. If you forget to return a toy and need to return it later, you will be responsible for the cost.",
+        "output": "Generally speaking, the shipping cost is included in the rental fee and will be borne by Toysub! However, if you forget to return the toy and need to send it back later, you will be responsible for the shipping costs.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 39,
+        "question": "Is it okay for grandparents to sign contracts and pay for mailing to their children and grandchildren?",
+        "input": "It is OK that the signatory (payer) and the shipping address are different, and there are also many grandparents who use our products as gifts. In this case, please fill in the detailed delivery address of your children or grandchildren in the ordering field when applying.",
+        "output": "Yes, it is perfectly fine for the grandparents to be the signatory and responsible for the payments. We also have many customers who send our products as gifts to their children and grandchildren. In this case, please fill in your delivery address in detail in the ordering field when applying, and we will ship accurately according to the specified address.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 40,
+        "question": "Will an invoice be issued after payment?",
+        "input": "Yes. We all make regular online payments, and after payment, an electronic invoice will be sent to the email address you filled in. If you need to issue a unified number or paper invoice, please contact 'Customer Service' to solve your problem.",
+        "output": "Yes! We all accept regular online payments and will send an electronic invoice to your email address after payment. If you need to issue a unified number or paper invoice, please contact customer service to solve the problem for you.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 41,
+        "question": "What should I do if the credit card deduction fails?",
+        "input": "If your credit card payment fails, it may be due to one of the following reasons. We have provided relevant information for you to assess and take appropriate action:1.Credit card has expired: If your card has expired, please contact Customer Service to update your credit card information.2.Credit limit has been reached.3.Usage temporarily suspended due to the credit card company's fraud prevention system.Please note that we are unable to investigate the specific reason for the payment failure. We recommend contacting your credit card issuer immediately. If the issue persists after doing so, please reach out to Customer Service and we will assist you in resolving the matter.",
+        "output": "If your credit card deduction fails, please follow the steps below to check and handle: 1. Confirm whether the credit card has expired: If it has expired, please contact 'Customer Service' to update your credit card information. 2. Check whether the credit card limit has been reached: If the limit is full, please contact the issuing bank or use other payment methods. 3. Pay attention to whether it is temporarily suspended due to anti-fraud mechanism: Some credit card companies will temporarily suspend transactions for security reasons. It is recommended that you contact the credit card company to confirm whether this is the reason. Since we cannot directly inquire about the specific reasons for the failed charge, we recommend that you contact your credit card company immediately for more information. If the problem is still not resolved, please contact 'Customer Service' again and we will assist you with subsequent payment matters.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 42,
+        "question": "If the automatic credit card debit fails, will the toy still be shipped normally?",
+        "input": "If the deduction fails, the toy will not be shipped temporarily because it has not yet been confirmed whether the fee has been paid.",
+        "output": "If the deduction fails, the toy will not be shipped temporarily because it has not yet been confirmed whether you have paid the fee.",
+        "TOPIC":"About fees and payment."
+      },
+      {
+        "id": 43,
+        "question": "How to handle the situation of contract termination?",
+        "input": "Please contact 'Customer Service' and we will explain to you how to return the toy.",
+        "output": "Please contact 'Customer Service' to explain to you the return of toys and other related matters after termination of the contract.",
+        "TOPIC":"Regarding withdrawal/suspension"
+      },
+      {
+        "id": 44,
+        "question": "Can a non-signatory request to terminate the contract?",
+        "input": "n principle, the termination of the contract must be requested by the contractor himself. If you have difficulty contacting us, please contact 'Customer Service' and we will help you solve the problem. Depending on the circumstances, our company may not be able to approve a termination request made by someone other than the contracting party. In this case, please contact our company in person. We apologize for not being able to meet the customer's request.",
+        "output": "According to regulations, in principle, the application for termination of the contract must be submitted by the contractor himself. If you are unable to contact me, please contact customer service for assistance. However, depending on the specific circumstances, the Company may not be able to accept a request for termination from a non-contractor. Therefore, we recommend that the contracting party contact the Company in person. Thank you for your understanding.",
+        "TOPIC":"Regarding withdrawal/suspension"
+      },
+      {
+        "id": 45,
+        "question": "What should I do if delivery is suspended?",
+        "input": "We can apply for a delivery suspension. Please contact 'Customer Service' and we will solve the problem for you.",
+        "output": "We can apply for a delivery suspension. Please contact 'Customer Service' to solve your problem.",
+        "TOPIC":"Regarding withdrawal/suspension"
+      },
+      {
+        "id": 46,
+        "question": "How to apply to resume delivery after delivery is suspended?",
+        "input": "Please contact 'Customer Service' and we will solve the problem for you. The following information must be provided when applying to resume shipping: toy shipping address, expected toy delivery date, toy items at home, and the child’s recent status (interests, growth status). Please note that unless otherwise specified, it will take about 2 to 3 days from the time you apply for resumption of delivery to the time it is delivered to your home.",
+        "output": "If you encounter a delivery suspension and wish to resume toy delivery, please contact customer service for assistance. When applying for resumption of delivery, please provide the following information: 1. Toy delivery address 2. Expected delivery date of toys 3. Current toy items at home 4. Child’s recent situation (such as changes in interests, development status, etc.). Please note that unless otherwise specified, it will take approximately 2 to 3 days from the time you apply for restoration to the time it is actually delivered to your home. Our customer service staff will arrange the most appropriate delivery content and schedule based on the information you provide.",
+        "TOPIC":"Regarding withdrawal/suspension"
+      },
+      {
+        "id": 47,
+        "question": "Will I be charged any more fees after I terminate the contract?",
+        "input": "There will be no charge for applying for cancellation and us receiving the recycled toys. All related deduction information has also been stopped. Please rest assured. If deductions still occur, please contact 'Customer Service' and we will resolve the issue for you as soon as possible.",
+        "output": "Please don't worry, after you apply for termination and we receive the recycled toys, all related deductions will be stopped and no fees will be incurred. If deductions still occur, please contact customer service to resolve the issue.",
+        "TOPIC":"Regarding withdrawal/suspension"
+      },
+      {
+        "id": 48,
+        "question": "Why do babies develop so differently at different ages? What indicators can help parents observe whether their baby is within the normal development range?",
+        "input": "Key points for selecting toys for 0-year-old babies: The first year after birth is a period of rapid growth for babies. They begin to roll over, crawl and learn to stand. The development and growth of each baby is very different, usually because development is affected by many factors such as genes, environmental stimulation, nutritional status and sleep quality. Infants and young children can usually lift their heads at 2 months, roll over at 4 months, and sit steadily at 6 months. What babies can accomplish and how much they maintain their interest during this period change from month to month. Therefore, many parents find it difficult to choose the right toys for their babies during this period.",
+        "output": "Each baby's development is affected by many factors, including genes, environmental stimulation, nutritional status and sleep quality. Therefore, even babies of the same age may have different development processes. Parents can refer to the developmental milestones of each month, for example: lifting the head at 2 months, rolling over at 4 months, sitting steadily at 6 months, etc. If there is a significant lag, consult a pediatrician or developmental assessment center.",
+        "TOPIC":"Key points for selecting toys for 0-year-old children"
+      },
+      {
+        "id": 49,
+        "question": "What qualities should toys for newborn babies have?",
+        "input": "The key points in selecting toys for 0-year-old children should include the following: they can stimulate curiosity, encourage trying new things, enable children to gain a sense of accomplishment through toys, and cultivate spontaneity and independence. Strictly prohibited: There is a high risk of accidental ingestion by children under 0 years old, and toys that are too small to be swallowed are prohibited.",
+        "output": "Infancy is the fastest growing period in a child's life, and they are full of curiosity about the surrounding environment. Therefore, toys suitable for newborn babies should have the characteristics of stimulating curiosity, encouraging children to try new things, enabling them to gain a sense of accomplishment through toys, and cultivating their spontaneity and independence.",
+        "TOPIC":"Key points for selecting toys for 0-year-old children"
+      },
+      {
+        "id":50,
+        "question": "I am a new father and have a one-month-old baby who is often emotionally unstable and cries a lot. What toys are suitable for my child and can help him stabilize his emotions?",
+        "input": "Recommended Toy for 1-Month-Old Babies:1. Baby Soothing Egg:This soothing toy gently sways to a rhythm that mimics a baby's heartbeat and emits tones rich in sound components around 5,000 Hz—a frequency to which newborns are particularly sensitive. Each sound from this instrument is meticulously crafted by skilled artisans to tenderly comfort your child. The pendulum structure allows it to swing smoothly and precisely, producing calming tones and movements.",
+        "output": "We understand your child's situation. It is normal for babies to cry frequently when they are just born. If you want to soothe your child's emotions, we recommend baby soothing eggs. The toy rocks to a rhythm close to a baby's heart rate, producing tones that include around 5,000 Hz, the frequency to which infants' hearing is most sensitive. This musical instrument toy is carefully crafted by artisans, the structure of the pendulum allows it to swing smoothly and precisely, producing smooth tones and movements that will gently soothe your child, perfect for your child.",
+        "TOPIC":"Recommended toys for the first month after birth (gentle toys that stimulate the five senses)"
+      },
+      {
+        "id":51,
+        "question": "If my child is just one month old, what toys do you recommend?",
+        "input": "Recommended Toy for 1-Month-Old Babies: 2. Baby Activity Gym.This baby activity gym is made from natural wood, featuring warm colors and a soft texture. Babies can use it while lying on their backs or in a seated position. The hanging toys swaying from the gym encourage babies to reach out and touch them. Parents can also hang their baby's favorite dolls, fabric toys with strings, or even small toddler toys. Enjoy the fun and educational value of the toy as your baby grows!",
+        "output": "We recommend this baby power rack, which is made of natural wood with warm colors and a soft touch. Babies can use it while lying on their backs or sitting, and the swaying toys hanging on the rack make babies want to reach out and touch them. Parents can also replace the baby's favorite dolls, cloth toys, small toddler toys, etc., and enjoy the fun brought by the toys while the baby grows up.",
+        "TOPIC":"Recommended toys for the first month after birth (gentle toys that stimulate the five senses)"
+      },
+      {
+        "id":52,
+        "question": "What interactive methods can enhance babies’ interest in toys and enhance their learning outcomes?",
+        "input": "The key to improving baby's interest in toys and learning outcomes lies in parent-child interaction and multi-sensory stimulation. Parents can attract their baby's attention and curiosity by playing with toys with their baby, such as explaining the name and function of the toys in a gentle tone, imitating animal sounds, singing, or playing interactive games such as hide-and-seek. In addition, properly guiding your baby to grasp, shake, knock or press toys with his hands can strengthen his sensory integration and motor development. Matching toys with bright colors, rich materials, sound and light effects, or reactions can also further stimulate the baby's motivation to explore. Most importantly, through eye contact, smiles and praise, babies can build learning confidence and emotional attachment in a safe and enjoyable environment, so that toys are not just tools, but a bridge for sharing love and learning with parents.",
+        "output": "Parents can accompany their babies in play, guide them to explore the toys, and add verbal narration, tactile stimulation, and interactive Q&A, so that toys are not just objects, but a medium for learning and emotional connection.",
+        "TOPIC":"Interactive way to enhance baby's interest in toys and learning effect"
+      },
+      {
+        "id":53,
+        "question": "How should parents adjust their parenting and playtime styles according to the baby’s monthly developmental changes?",
+        "input": "The fastest growing period in a child's life is the neonatal period, when they begin to come into contact with things in the outside world and try to explore them with their senses. Because the things that babies can accomplish and the degree of their interest in this period change every month, parents should observe their babies' new abilities and interests, gradually add new game stimulation, a matching learning environment, training toys, and it is even more important to accompany their babies as much as possible.",
+        "output": "You can observe your baby's new abilities and interests every month, and gradually add new game stimulation; interact, talk and accompany your baby more, and let toys become a bridge for parent-child communication and learning.",
+        "TOPIC":"Ways for parents to adjust their parenting style"
+      },
+      {
+        "id":54,
+        "question": "How will the baby develop when it is just born? What are its characteristics?",
+        "input": "When babies are just born, they like to look at objects with strong contrast and black and white patterns. They are particularly interested in human faces and can recognize their mother's face. Hearing: Sensitive to sounds, especially the human voice. Can tell mom’s voice is different from anyone else’s. Touch: Very sensitive to temperature and touch. Being touched can soothe emotions and promote parent-child bonding. In terms of cognitive development, they explore the world mainly through their senses and respond to sound, light, and touch, but they do not yet have goal-oriented behavior. Finally, in terms of social and emotional development, they will attract the attention of caregivers through crying and facial expressions, and have positive responses to intimate interactions such as hugs and kisses. Emotional expression: The way to express needs is to cry, and basic emotions such as hunger, discomfort, and pleasure can be displayed.",
+        "output": "Babies have the following characteristics when they are born: 1. They like to look at objects with strong contrast and are particularly interested in human faces. 2. In terms of tactile development, children are very sensitive to temperature and touch. Being touched can effectively soothe emotions and promote parent-child relationships. 3. In terms of cognitive development, explore the world through the senses and respond to sound, light, and touch. 4. In terms of social and emotional development, they will attract the attention of caregivers through crying and facial expressions, can show basic emotions such as hunger, discomfort, and pleasure, and have positive responses to intimate interactions.",
+        "TOPIC":"How babies develop at birth"
+      },
+      {
+        "id":55,
+        "question": "Why do parents find it difficult to choose toys? Does this have something to do with parenting experience?",
+        "input": "The first year after birth is a period of rapid growth for babies. During this period, the things that babies can accomplish and the degree of their interest change every month. In addition, the types of toys on the market are constantly updated, so many parents find it very difficult to choose toys suitable for babies in this period.",
+        "output": "Yes, because every baby develops at a different speed, and with so many toy options on the market, inexperienced new parents often feel overwhelmed or worry that the toys are not suitable.",
+        "TOPIC":"Why parents find it difficult to choose toys"
+      },
+      {
+        "id":56,
+        "question": "What toys are particularly suitable for helping babies learn to roll over, crawl and stand?",
+        "input": "Recommended toys for the first 3 months after birth: 1. Baby music power rack: The power rack contains detachable arches and toy pendants for easy carrying. Hanging your baby's favorite toys on the arch using button ropes or other devices can encourage your baby to turn his body, reach, grasp, hit, etc. It’s also useful when changing diapers! When you turn the lion's wheel, a musical melody will play.",
+        "output": "Strength racks, turning mats, crawling tunnels, activity balls, walkers, etc. can all guide babies to try out movements and train the coordination and sense of balance of large muscle groups through games. Here we most recommend the 'Baby Music Fitness Frame': the fitness frame includes a detachable arch and toy pendant, which is easy to carry. Hanging your baby's favorite toys on the arch using button ropes or other devices can encourage your baby to turn his body, reach, grasp, hit, etc. And as long as you turn the lion's wheel, the music melody will play, allowing your baby to enjoy the music. It's also useful when changing diapers!",
+        "TOPIC":"Recommended toys for the first 3 months of life (toys that stimulate interest through colors and sounds)"
+      },
+      {
+        "id":57,
+        "question": "If the child is already 3 months old and can roll over and raise his head in the crib, what toys can you recommend?",
+        "input": "Recommended toys for 3 months after birth: 2. Baby grip ring: Training the movements of 'hand gripping', 'hand holding' and hand shaking are the focus of the development of this type of toy. The purpose of learning with this type of toy is to make it easy for babies to hold and grasp it, not to make sounds by shaking it. Therefore, the weight, shape, etc. of the toy can inspire the baby to make more body movements.",
+        "output": "We understand your child's current situation. We recommend that you try the 'Baby Grip Ring', which focuses on training the movements of holding, grasping and shaking. Making it easy for babies to hold and grasp is the learning purpose of this type of toy, not making sounds by shaking. Therefore, the weight, shape, etc. of the toy can effectively inspire the baby to make more body movements.",
+        "TOPIC":"Recommended toys for the first 3 months of life (toys that stimulate interest through colors and sounds)"
+      },
+      {
+        "id":58,
+        "question": "My child can now roll over and crawl a little. What toys can be used to further train crawling? I hope this toy has multiple functions.",
+        "input": "Recommended toys for the first 5 months of life: 1. Bug mirror: There are three different ways to play with this toy: you can play with it in front of the mirror while crawling; you can play with the toy with your fingers while sitting; you can also play with the chasing toy while learning to crawl or learn to walk. The advantage of this type of toy is that there are three different ways to play according to the growth stages. Pressing the switch also produces music, lights and movement. It is a good companion for babies in the crawling stage.",
+        "output": "We understand your child's current situation, and we recommend that you try the 'Bug Mirror', a toy that has three different ways to play. 1. You can play in front of the mirror while crawling. 2. You can play with toys with your fingers while sitting. 3. You can also play with chasing toys when learning to crawl or learn to walk. The advantage of this type of toy is that there are three different ways to play according to the growth stages. It can meet multiple needs at one time, and pressing the switch will also produce music and lights. It is a good companion for babies in the crawling stage.",
+        "TOPIC":"Recommended toys for the first 5 months of life (toys that stimulate body movements)"
+      },
+      {
+        "id":59,
+        "question": "What toys are particularly suitable for 5-month-old babies who are a bit active?",
+        "input": "Recommended toys for the first 5 months after birth: 2. Tumbler Horse: This is a toy that rocks back and forth like a tumbler to make sounds. The toy makes sounds when it shakes, and the shaking will attract babies and make them want to shake it repeatedly. It can cultivate sound recognition ability and hand-eye coordination ability.",
+        "output": "We recommend the 'Royal Horse': This is a toy that makes sounds by rocking back and forth like a tumbler. The sound made by shaking can attract the baby's attention and make them want to shake it repeatedly. It can develop sound recognition and hand-eye coordination.",
+        "TOPIC":"Recommended toys for the first 5 months of life (toys that stimulate body movements)"
+      },
+      {
+        "id":60,
+        "question": "What toys are particularly suitable for helping babies learn finger movements?",
+        "input": "Recommended toys for 7 months after birth: 1. This is a toy that will deform when you squeeze it and return to its original shape when you let go. The fun lies in this incredible change. Shake it to make pleasant wooden sounds, or roll it like a ball... and help baby's vision tracking and promote physical activities such as baby crawling. While playing, they will learn various finger movements such as grabbing, pushing, twisting, shaking and rolling.",
+        "output": "We recommend this toy, which can be deformed by the user's hands and return to its original shape after a while. It can also make a pleasant wooden sound by shaking it, or roll it like a ball. It also helps the baby's tracking and promotes physical activities such as crawling. While playing, children can learn various finger movements such as grabbing, pushing, twisting, shaking and rolling.",
+        "TOPIC":"Recommended toys for the first 7 months of life (toys that change with your movements)"
+      },
+      {
+        "id":61,
+        "question": "What kind of introductory toys are suitable for babies 7 months old to encourage active play?",
+        "input": "The hand movements of a 7-month-old baby are becoming more and more flexible, which is the golden period for training operational skills and causal understanding. This classic spinner is a great introduction to independent play. As baby turns the dials, the toy plays music and makes bead rattles, helping stimulate hearing and cause-and-effect associations, while pressing the bottom produces fun sounds that enhance baby's exploration and hand control. This type of toy is not only widely used in daycare centers and game halls, but is also very suitable for babies to play safe and independent games at home, cultivating their active learning and concentration.",
+        "output": "This is a classic spinning toy often seen in children's playhouses and daycare centers. As you turn each dial, it plays music and the beads inside rattle. Plus pressing the bottom makes a funny sound. It is an introductory toy suitable for independent play, allowing children to actively play with their hands.",
+        "TOPIC":"Recommended toys for the first 7 months of life (toys that change with your movements)"
+      },
+      {
+        "id":62,
+        "question": "What toys can help develop your baby's sense of color?",
+        "input": "Recommended toys for 9 months after birth: 1. Colorful baby building blocks: This type of building blocks is large in size and easy to hold. Because it uses soft material, it is safe to step on it! It can also be cleaned with water, so it is safe even for young children to play with. At first, babies start playing by knocking over the building blocks that their parents have piled up. As your child gets older, it may become more interesting to start stacking or arranging blocks. In addition, the bright colors of building blocks help cultivate the baby's sense of color.",
+        "output": "Children under one year old are particularly sensitive to color contrast, so we recommend this 'Colorful Baby Building Blocks': the bright colors of this building block help cultivate the baby's sense of color, and the large size makes it easy to hold. Because it is made of soft material, even young children can play safely, and it can be washed if it gets dirty. At the beginning, babies can start playing by knocking over the building blocks that their parents have piled up. As they get older, they may become more interested in stacking or arranging blocks.",
+        "TOPIC":"Recommended toys for 9 months (toys that can be played with both hands)"
+      },
+      {
+        "id":63,
+        "question": "Are there any toys you would recommend that can produce gentle, non-noisy melodies?",
+        "input": "Recommended toys for the first 9 months of life: 2. Wooden rattles: This toy includes a heart-shaped and oval-shaped rattle combination. The oval shape makes it easy to hold, and the heart-shaped design is in the hope that your baby will grow into a loving person. It’s meticulously crafted to be incredibly smooth and soft to the touch, with the soybeans and red beans inside making a soothing rustle. Make a non-noisy sound melody while playing.",
+        "output": "We understand your needs, you need a toy that can produce soft melodies. We recommend this 'Wooden Rattle': It includes a heart-shaped and oval-shaped rattle combination. The oval shape makes it easy to hold, and the heart-shaped design is in the hope that your baby will grow into a loving person. Carefully crafted to be smooth and soft to the touch, the soybeans and red beans inside create a soothing rustling melody when you shake them gently.",
+        "TOPIC":"Recommended toys for 9 months (toys that can be played with both hands)"
+      },
+      {
+        "id":64,
+        "question": "I want a wooden toy, preferably one with music function. Do you have any recommendations?",
+        "input": "Recommended toys for 11 months after birth: 1. Music Box Car: This toy is made of unpainted solid wood with beautiful wood grain. Whether you push it forward or pull it back, a gentle melody will play. It is designed so that even babies can hold it easily, and as they grow older, they can also play with it as a car. This is a toy that enriches the soul, has the warmth of nature and the smooth texture of wood, and feels comfortable in the hand.",
+        "output": "We recommend this 'Music Box Car': This is a toy with the warmth of nature, the smooth texture of wood and a comfortable feel. It is made of unpainted solid wood with beautiful wood grain. Whether you push it forward or pull it back, a gentle melody will play, perfectly suiting your needs. It is designed so that babies can hold it easily and play with it as a car as well.",
+        "TOPIC":"Recommended toys for 11 months after birth (toys that allow full body movement)"
+      },
+      {
+        "id":65,
+        "question": "What kind of toys can help an 11-month-old baby develop musicality and hand-eye coordination?",
+        "input": "Recommended toys for 11 months after birth: 2. Colorful wooden drum: It is a wooden drum with a handle for easy carrying. The sound will be different depending on where you hit it. There are two modes: Drum Mode, which lets you change the type of drum sound, and Melody Mode, which plays a melody and lets you play the drums along with the music.",
+        "output": "The colorful wooden drum is a musical toy suitable for babies aged 11 months. It is designed with a convenient carrying handle so that the baby can easily pick it up and operate it. It has two modes: in 'Drum Mode', babies can listen to changing drum sounds by hitting different positions, which helps stimulate hearing and learn cause and effect; in 'Melody Mode', the toy will play pleasant melodies, and babies can follow the rhythm to hit the drum surface, further training their sense of rhythm and hand-eye coordination. This toy not only provides auditory enjoyment, but is also a good tool for cultivating musical interest and exploration ability.",
+        "TOPIC":"Recommended toys for 11 months after birth (toys that allow full body movement)"
+      },
+      {
+        "id":66,
+        "question": "Why is it especially important to choose toys that enable finger dexterity at the age of one?",
+        "input": "Babies around one year old are in the period when they begin to develop language skills, learn to walk alone, climb and go down stairs, and use their fingers or fingertips flexibly to play. The period when physical activity abilities begin to develop. At this stage, it is important to choose toys that are suitable for children's hands and fingers to use flexibly according to their age. Educational toys that use fingers and fingertips can promote the development of the five senses while also allowing children to practice movements they will use in daily life. As children grow up and play with toys alone, they will also be aware of the people and things around them. At this point, you can start to develop your self-confidence to the next level: “I can do it myself!”",
+        "output": " Babies around one year old are entering a critical period for the development of fine hand motor skills. Toys that can grasp, press, and rotate can help them train small muscle groups, promote the integration of the brain and five senses, and lay the foundation for daily skills such as writing, dressing, and eating in the future.",
+        "TOPIC":"Characteristics of 1-year-old baby"
+      },
+      {
+        "id":67,
+        "question": " What types of toys can help a 1-year-old baby develop language and cognitive skills?",
+        "input": "Babies around one year old are in the period when they begin to develop language skills, learn to walk alone, climb and go down stairs, and use their fingers or fingertips flexibly to play. The period when physical activity abilities begin to develop. At this stage, it is important to choose toys that are suitable for children's hands and fingers to use flexibly according to their age. Educational toys that use fingers and fingertips can promote the development of the five senses, while also allowing children to practice movements that they will use in daily life. In addition, audio books, toys that interact with simple instructions (such as talking dolls), and puzzle toys can guide babies to imitate speech, understand meaning, and improve their expressiveness. As children grow up and play with toys alone, they will also be aware of the people and things around them. At this point, you can start to develop your self-confidence to the next level: “I can do it myself!”",
+        "output": " Audio books that make sounds and match pictures and words, toys that interact with simple instructions (such as talking dolls), and puzzle toys that match shapes or patterns can all guide babies to imitate speech, understand meaning, and improve their expressiveness.",
+        "TOPIC":"Key points for selecting toys for 1-year-old babies"
+      },
+      {
+        "id":68,
+        "question": " How to guide a one-year-old baby to build confidence in “I can do it myself” through toys?",
+        "input": "Babies around one year old are in the period when they begin to develop language skills, learn to walk alone, climb and go down stairs, and use their fingers or fingertips flexibly to play. The period when physical activity abilities begin to develop. At this stage, it is important to choose toys that are suitable for children's hands and fingers to use flexibly according to their age. Educational toys that use fingers and fingertips can promote the development of the five senses while also allowing children to practice movements they will use in daily life. As children grow up and play with toys alone, they will also be aware of the people and things around them. At this point, you can gain successful experience and a sense of accomplishment from the game, and begin to cultivate your self-confidence to the next level of 'I can do it myself!'",
+        "output": " Provide toys that are simple but challenging to operate, such as building blocks that can be stacked by themselves, toy boxes that can be opened and closed, button-type musical toys, etc., so that babies can gain successful experience and a sense of accomplishment by 'trying to complete it by themselves', which helps to build independence and self-efficacy.",
+        "TOPIC":"Key points for selecting toys for 1-year-old babies"
+      },
+      {
+        "id":69,
+        "question": "What should babies pay attention to when choosing toys when they are one year old?",
+        "input": "Key points and precautions for selecting toys for 1-year-olds: 1-year-olds, like 0-year-old babies, are at risk of accidentally swallowing toys. As children gain strength, they will start to throw toys. Toysub! selects toys based on our own developed standards of 'target age' and 'toy safety setting'. Providing children with an environment where they can have fun is also an important element of educational and educational games.",
+        "output": "One-year-old children are at the same risk of accidentally swallowing toys as 0-year-old babies, and as children gain strength, they will begin to throw their toys. We recommend choosing toys without small parts that can fall off, so your baby doesn’t swallow them accidentally. And choose toys that are made of non-toxic materials and have passed safety certification. Choose toys with rounded edges to prevent scratches or bruises on your baby's skin. Toysub! will provide safe matching toys based on the ‘target age’ and ‘toy safety settings’.",
+        "TOPIC":"Key points for selecting toys for 1-year-old babies"
+      },
+      {
+        "id":70,
+        "question": "I want a toy that can be played with more fingers, any recommendations?",
+        "input": "Suggested toys for 1-year-olds: 1. Infant Musical Xylophone: The wide soundboard allows for accurate and simple playing of eight notes. There are two hammers designed so that babies can hold them with their hands. One is connected to the xylophone with a rope, and the other can be struck freely. This product was developed in the hope that babies and their families can share an interesting music experience together.",
+        "output": "We recommend the 'Toddler Music Xylophone': The wide soundboard can play eight notes accurately and easily, and is designed with two hammers that babies can grasp, one connected to the xylophone with a rope, and the other can be struck freely. Let your baby and family share an interesting music experience together.",
+        "TOPIC":"Recommended toys for 1-year-olds (toys that allow children to use their fingers and enjoy the results of their actions)"
+      },
+      {
+        "id":71,
+        "question": "What toys do you recommend for 1-year-olds? Why?",
+        "input": "Recommended toys for 1-year-olds: 2. This toy allows you to put the ball in from the top, and it will spin and make a dinging sound when you put it in. Even when playing simple games, a child will grab a ball, let it go, and watch the ball move intently. By repeating these movements, children can develop finger dexterity, concentration and curiosity. When children are concentrating on something, just look at them quietly and don't shout at them to avoid disturbing their concentration.",
+        "output": "This toy allows you to drop a ball into it from the top and it spins and makes a dinging sound when you drop it in. Even when playing simple games, children will focus on watching the ball move. By repeating these movements, children can develop finger dexterity, concentration and curiosity. When children are concentrating on something, just look at them quietly and don't shout at them to avoid disturbing their concentration. It is a toy that helps children use their fingers and enjoy the results of their actions, so it is very suitable for children of this age.",
+        "TOPIC":"Recommended toys for 1-year-olds (toys that allow children to use their fingers and enjoy the results of their actions)"
+      },
+      {
+        "id":72,
+        "question": "I want my child to be able to practice eye-to-eye coordination and have hands-on fun. What toys can you recommend?",
+        "input": "Recommended toys for children aged 1 year and 3 months: 1. Colorful learning box: This is a fun learning box that allows you to practice seeing, hearing, and hands-on play. Through the five-panel functional organization, Japanese and English songs, the ABCs of language learning, shapes, names of colors, numbers and more. Practice finger manipulation at the same time!",
+        "output": "We recommend this 'Colorful Learning Box': This is a fun learning box that allows you to practice seeing, hearing, and playing with your hands. Through the five-panel functional organization, Japanese and English songs, the ABCs of language learning, shapes, names of colors, numbers and more. Practice finger manipulation at the same time!",
+        "TOPIC":"Recommended toys for children aged 1 year and 3 months (toys that foster curiosity through finger movements)"
+      },
+      {
+        "id":73,
+        "question": "What kind of toys are recommended for young children to develop balance and concentration?",
+        "input": "Wooden building blocks are a very suitable toy for children aged 1 year and 3 months. Children can stack and arrange them according to their preferences and learn spatial sense and hand coordination. The building blocks make sounds when they are shaken, which not only adds to the fun but also arouses children's sensory interest. In the game, children need to control their hand strength and pay attention to balance, which can effectively train their sense of balance and concentration. It is an ideal choice for combining learning and entertainment.",
+        "output": "We recommend 'wooden building blocks': you can play the way you like. They can be stacked or balanced as you like, and they make sounds when shaken. This toy can help children develop a sense of balance and concentration.",
+        "TOPIC":"Recommended toys for children aged 1 year and 3 months (toys that foster curiosity through finger movements)"
+      },
+      {
+        "id":74,
+        "question": "My child is now 1 year and 6 months old. What toys can help him train hand-eye coordination and concentration?",
+        "input": "Recommended toys for children aged 1 year and 6 months: 1. Educational rocket: an educational toy that can be put in and taken out of the rocket body. There are five entry holes in different directions and angles. Children can exercise the motor skills of their hands and fingers by skillfully inserting the round board. In addition, by pressing the handle, the round plate will pour out from the outlet. Repeated operations can cultivate concentration and hand-eye coordination.",
+        "output": "Educational Rocket: This rocket-shaped toy is designed with five insertion ports at different angles and directions, allowing children to cleverly insert the round board into them. This process not only exercises the fine motor skills of the hands and fingers, but also enhances children's spatial perception and problem-solving abilities. By pressing the handle, the round plate will pour out from the outlet, and the child can repeat the 'input-release' operation, which helps to improve their concentration and hand-eye coordination. It is an educational toy that is both fun and educational.",
+        "TOPIC":"Recommended toys for children aged 1 year and 6 months (toys that foster curiosity through finger movements)"
+      },
+      {
+        "id":75,
+        "question": "What can young children learn from the Rainbow Beads Toy?",
+        "input": "Recommended toys for children aged 1 year and 6 months: 2. Rainbow Beads: This toy can move what the eyes see to the destination with the fingers. It is an educational toy that trains the connection between vision and finger movement. Brightly colored round square beads move on colorful metal wires, allowing the beads to be rotated and slide along curves. 'This is red, let's try to move the yellow one next.' Conversations with children during games will also improve their recognition of colors and shapes.",
+        "output": "Rainbow beads can effectively help them develop hand-eye coordination and fine motor skills in the game. By guiding children to use their fingers to slide brightly colored beads along colored metal wires, it not only exercises the hand muscles but also allows children to learn to control the synchronization of fingers and vision. During the process, if parents can add simple language interactions, such as 'This is a red bead, let's move the yellow one together', it can further enhance the child's understanding of colors and shapes. This type of toy not only improves operational skills, but also deepens the interaction between parents and children, laying a good foundation for language development and cognitive establishment.",
+        "TOPIC":"Recommended toys for children aged 1 year and 6 months (toys that foster curiosity through finger movements)"
+      },
+      {
+        "id":76,
+        "question": "What kind of jigsaw puzzle is suitable for a 1 year and 9 month old child? How should we guide them to play?",
+        "input": "Recommended toys for children aged 1 year and 9 months: 1. Animal puzzles: puzzles with themes of animals familiar to children, such as lions, giraffes and elephants. You can practice pinching with your fingertips, identifying shapes, learning names, and imitating objects. Parents can also put the animal puzzles on paper and trace their shapes, then have fun coloring the animals with their children!",
+        "output": "For children aged 1 year and 9 months, 'Animal Puzzles' is an ideal choice. Using animals familiar to children, such as lions, giraffes, and elephants, as the protagonists of the puzzle not only attracts attention but also helps with vocabulary learning and image recognition. Children at this stage can practice grasping with their fingertips, matching shapes and positions through puzzles, which promotes fine motor skills and hand-eye coordination. Parents can guide their children to say the names of animals and imitate the sounds of animals during play time to increase language and imagination development. You can further draw the assembled animal patterns on paper and color them with your children. This can also be extended into a creative graffiti game to cultivate observation and aesthetic sense.",
+        "TOPIC":"Recommended toys for children aged 1 year and 9 months (toys that can increase language vocabulary and develop speech skills in the brain)"
+      },
+      {
+        "id":77,
+        "question": "If you want to increase your child's interest and ability in numbers, which toys will meet your needs?",
+        "input": "Recommended toys for children aged 1 year and 9 months: 2. Cat Bus: An interesting educational toy with a bus car. When you put the ball on it, it will tell you the number through sound. The bus carries 10 adorable animals like rabbits, cats and more. In addition to being able to move forward and backward, the bus can also help children develop an interest in numbers by repeatedly touching the number balls from 1 to 10.",
+        "output": "We think 'Cat Bus' meets your needs. When you put the ball on the bus toy, it will tell you the number through sound. The bus carries 10 adorable animals like rabbits, cats and more. In addition to being able to move forward and backward, the bus can also help children develop an interest in numbers by repeatedly touching the number balls from 1 to 10.",
+        "TOPIC":"Recommended toys for children aged 1 year and 9 months (toys that can increase language vocabulary and develop speech skills in the brain)"
+      },
+      {
+        "id":78,
+        "question": "What are the characteristics of language development in 2-year-old children?",
+        "input": "Characteristics of 2-3 year old children: The age of 2 is the period of self-emergence. This is a period when you have more opinions of your own and begin to distinguish between what you like and don't like. This period is called the 'language boom' because language skills develop significantly and the range of toys that can be interacted with increases. By the age of 3, children's abilities have further developed, and their ability to sense things that cannot be seen by the naked eye has increased. It is said that children begin to develop empathy for others around the age of three.",
+        "output": "Children usually have a 'language explosion period' between 1.5 and 2.5 years old, with their vocabulary increasing rapidly and they begin to use two-word or three-word sentences, such as 'Mommy, hold me' and 'I want to drink water.' At this time, you can strengthen language input and stimulate language expression ability through reading storybooks, conversations, singing, etc.",
+        "TOPIC":"Characteristics of 2-3 year old children"
+      },
+      {
+        "id":79,
+        "question": "What psychological and cognitive changes do children experience when they are 3 years old?",
+        "input": "Characteristics of 2-3 year old children: The age of 2 is the period of self-emergence. This is a period when you have more opinions of your own and begin to distinguish between what you like and dislike. This period is called the 'language boom' because language skills develop significantly and the range of toys that can be interacted with increases. By the age of 3, children are more cognitively mature. In addition to being able to engage in more complex imaginative games, their ability to sense things that cannot be seen by the naked eye also increases. It is said that children begin to develop empathy for others around the age of three.",
+        "output": "Children aged 3 are more cognitively mature. In addition to being able to play more complex imaginative games, they also begin to demonstrate 'invisible conceptual understanding', such as understanding that tomorrow is the future, or that an object still exists even if it is not in front of them. In addition, empathy gradually develops during this period, and children begin to understand how to care for others and comfort friends who are crying.",
+        "TOPIC":"Characteristics of 2-3 year old children"
+      },
+      {
+        "id":80,
+        "question": "How to cultivate empathy in a 3-year-old?",
+        "input": "Characteristics of 3-year-old children: At the age of 3, children are more mature on the cognitive level. In addition to being able to play more complex imaginative games, their ability to sense things that cannot be seen by the naked eye also increases. It is said that children begin to develop empathy for others at around the age of three. Parents can help their children learn empathy and recognize emotions through demonstration and guidance in daily life, by describing emotions through picture books, using puppets to simulate conversations, etc.",
+        "output": "You can do this through demonstration and guidance in daily life. For example, when a child sees someone else crying, you can gently say, 'She is hurt. Let's take care of her, okay?' Or you can tell stories about emotions through picture books, use puppets to simulate conversations, etc., so that children can learn to think from other people's perspectives and identify emotions.",
+        "TOPIC":"Characteristics of 2-3 year old children"
+      },
+      {
+        "id":81,
+        "question": "What changes occur in toy choices among two-year-olds?",
+        "input": "Key points for selecting toys for children aged 2-3: In order to develop children's growth abilities in a balanced way, it is very important to be able to experience a variety of ways of playing through a variety of educational toys. In addition, starting at the age of 2, children begin to have more independent ideas about what they want to do, and it becomes very important to choose toys that suit their curiosity. Puzzles and building blocks that develop social skills, train logical thinking, and more. Toysub! provides high-quality educational toys that are suitable for each child's development and preferences.",
+        "output": "Children around two years old begin to show self-awareness and independent opinions, and will develop a strong interest in specific things. Therefore, it is particularly important to choose toys that can stimulate curiosity and encourage independent exploration, such as role-playing toys, simple mechanical operations, or building blocks that can be combined and changed, which can guide children to learn independently. Toysub! provides high-quality educational toys that are suitable for each child's development and preferences.",
+        "TOPIC":"Key points for selecting toys for 2-3 year olds"
+      },
+      {
+        "id":82,
+        "question": "How to choose suitable educational toys according to the child’s development?",
+        "input": "Key points for selecting toys for children aged 2-3: In order to develop children's growth abilities in a balanced way, it is very important to be able to experience a variety of ways of playing through a variety of educational toys. In addition, starting at the age of 2, children begin to have more independent ideas about what they want to do, and it becomes very important to choose toys that suit their curiosity. Puzzles and building blocks that develop social skills, train logical thinking, and more. Parents can observe their children's motor skills, language expression, interest preferences and interactive behaviors, and then choose toys that correspond to their developmental stages. Toysub! will also provide parents with appropriate assistance and give them high-quality educational toys that are suitable for each child's development and preferences.",
+        "output": "You can observe your child's motor skills, language expression, interest preferences and interactive behavior, and then choose toys that correspond to the development stage. For example, children whose language skills are still in the budding stage can use toys with voice prompts, while children who are interested in spatial logic can choose construction toys. Accurately meeting children's needs can improve learning outcomes.",
+        "TOPIC":"Key points for selecting toys for 2-3 year olds"
+      },
+      {
+        "id":83,
+        "question": "If children want toys that they can play with parents and friends, what are the suitable options?",
+        "input": "Recommended toys for 2-year-old children: 1. Vegetable Chopping Fun: A vegetable cutting toy set produced by Ed.Inter, a well-known Japanese toy manufacturer. There are ingredients such as bread, hamburger buns and radish, as well as a bread knife, so that children can enjoy the fun of house wine. The feel of the wooden knife cutting will stimulate children's curiosity and bring them a sense of satisfaction. Toys like home and wine can also enrich children's imagination and improve their social skills.",
+        "output": "Vegetable Cutting Fun: This is a vegetable cutting toy set produced by Ed.Inter, a well-known Japanese toy manufacturer. Contains ingredients such as bread, hamburgers and radishes, as well as a bread knife, so that children can enjoy the fun of house wine. The feel of the wooden knife can stimulate children's curiosity and bring them a sense of satisfaction. These house-playing toys can enrich children's imagination and improve their social skills, which meets your needs.",
+        "TOPIC":"Recommended toys for 2-year-olds (toys that can be played with by the family to develop creativity and imagination)"
+      },
+      {
+        "id":84,
+        "question": "What toys can you recommend for a 2 year old to role play with?",
+        "input": "Recommended toys for 2-year-old children: 2. The wooden cone can hold 4 flavors of ice cream. This is an ice cream house toy launched by Melissa & Doug. The most interesting thing is that the ice cream and spoon are adsorbed by magnets. You can separate the ice cream by pressing the button on the spoon, which increases the realism and operating fun of the game. This type of toy can not only develop children's fine muscle movements and hand-eye coordination, but also stimulate their imagination and language expression ability. It is very suitable as a choice for daily games and parent-child interactions.",
+        "output": "This wooden ice cream house toy from Melissa & Doug is perfect for role play for 2-year-olds. It contains four flavors of ice cream balls, and children can freely choose the combination and put them on the wooden cone to play the 'order and make' game. The most interesting thing is that there is a magnet design between the ice cream and the spoon. You can easily separate the ice cream balls by pressing the button on the spoon, which increases the realism and operating fun of the game, and can cultivate children's hand-eye coordination and imagination.",
+        "TOPIC":"Recommended toys for 2-year-olds (toys that can be played with by the family to develop creativity and imagination)"
+      },
+      {
+        "id":85,
+        "question": "I want toys that can develop my child's creativity and concentration.",
+        "input": "Recommended toys for children aged 2 years and 6 months: 1. Colorful building blocks: This German-made building block is popular in more than 80 countries and allows children to give full play to their imagination and attention. The corners are rounded and soft, making it safe to squeeze or throw. The size and shape of the building blocks are designed to fit children's hands, and the sounds produced during play are also carefully designed to help children focus on playing. Therefore, it has won numerous awards in the field of educational toys.",
+        "output": "We recommend 'Colorful Building Blocks': This German-made building block is popular in more than 80 countries and allows children to give full play to their imagination and attention. The corners of the blocks are rounded and soft, making them safe to squeeze or throw. The size and shape of the building blocks are designed to fit in children's hands, and the sounds produced during play are also carefully designed to help children focus on playing.",
+        "TOPIC":"Recommended toys for children aged 2 years and 6 months (toys that stimulate a spirit of challenge)"
+      },
+      {
+        "id":86,
+        "question": "What toys are suitable for developing children's language skills?",
+        "input": "Recommended toys for children aged 2 years and 6 months: 2. Chinese character plate: A toy in which magnetic pieces of Chinese characters and illustrations are arranged on a board. Children can arrange the magnetic tiles on the game board according to the picture or text prompts, and play in various ways such as matching, classifying and sorting. This toy is designed not only to improve children's literacy skills, but also to strengthen their language comprehension and vocabulary. During the matching game, children need to observe, think and operate with their hands, which helps to cultivate concentration, logical thinking and manual dexterity. In addition, parents can participate in games, ask questions and guide conversations to further enhance the quality of parent-child interaction and language expression skills.",
+        "output": "Chinese Character Plate: This is a toy in which magnetic pieces of Chinese characters and illustrations are arranged on a plate. The game includes matching the same pictures, pairing pictures and words, classification and sorting. Parents can play with their children to help cultivate their children's ability to recognize pictures, and improve their language skills, attention and flexible use of hands.",
+        "TOPIC":"Recommended toys for children aged 2 years and 6 months (toys that stimulate a spirit of challenge)"
+      },
+      {
+        "id":87,
+        "question": "I want to find a toy for my three-year-old that can stimulate his imagination. Any recommendations?",
+        "input": "Recommended toys for 3-year-olds: 1. This toy has colorful parts that combine to help the rolling ball create a three-dimensional maze with a path. You can freely combine channel parts, slope parts, and building block parts to play freely. It can cultivate children's attention, imagination, spatial awareness, etc.",
+        "output": "This toy has a colorful combination of parts. By freely combining channel parts, slope parts, and building block parts, you can help the rolling ball create a path, or you can use your creativity to build a three-dimensional maze. This toy can cultivate children's attention, imagination, spatial awareness and other abilities.",
+        "TOPIC":"Suggested toys for 3-year-olds (toys that stretch creativity and finger dexterity)"
+      },
+      {
+        "id":88,
+        "question": "Can you recommend any toys that are suitable for 3-year-olds and can be played with by the whole family?",
+        "input": "Recommended toys for 3-year-olds: 2. The rules of the game for this toy are quite simple, if the cactus tree falls down, you lose! Let parents and children enjoy the fun together. You can use your fingers to feel how the weight of the part adjusts the balance based on the size of the part. You can play alone, or it is more fun to play with multiple people! Won the 'GOOD TOY' award in countries such as Germany, Japan, and Thailand.",
+        "output": "The rules of this game are quite simple: if the cactus tree falls down, you lose! The more people play, the more fun there is! It allows parents and children to enjoy the fun together, which is very suitable for your needs. Tips for playing: You can use your fingers to feel how the weight of the parts adjusts the balance according to the size of the parts.",
+        "TOPIC":"Suggested toys for 3-year-olds (toys that stretch creativity and finger dexterity)"
+      },
+      {
+        "id":89,
+        "question": "What are the characteristics of children aged 4-6?",
+        "input": "Characteristics of children aged 4-6: Children aged 4 to 6 are in the preschool period, which is an important stage for the rapid development of language, sociality and cognitive abilities. There have been obvious changes in their behavior, psychological characteristics and learning methods, among which their language ability has greatly improved: they can speak complete sentences, like to tell stories and ask questions, and their vocabulary has increased rapidly. Logic and imagination begin to develop: they ask 'why', begin to understand the concept of time (morning, evening), basic classification and sorting. Likes to imitate and role-play: such as playing house, doctor games, shop games, etc. In terms of social and emotional development, they begin to establish peer relationships: they learn to make friends and value concepts such as 'taking turns' and 'sharing', but they still need guidance. Increased self-awareness: They will emphasize 'this is mine', showing self-assertion and emotional fluctuations. Need for affirmation and encouragement: Successful experiences can enhance self-confidence, while excessive blame can lead to retreat.",
+        "output": "At this age, children's memory and comprehension will improve. They like to tell stories and ask questions. Their vocabulary will increase rapidly, and they will begin to understand the cause and effect of things. They will also begin to build peer relationships and attach importance to concepts such as 'taking turns' and 'sharing'. This period begins with the preparation for children to enter elementary school and to acquire basic learning skills through games.",
+        "TOPIC":"Characteristics of children aged 4-6"
+      },
+      {
+        "id":90,
+        "question": "How can we use educational toys to make children interested in learning and naturally come into contact with numbers and words?",
+        "input": "Key points for selecting toys for 4-year-old children: In the early stages of a child's growth, it is crucial to establish a positive impression of learning. Through the game process of educational toys, children can naturally come into contact with numbers and words in a stress-free environment and discover the joy of learning through play. This approach not only reduces children’s resistance to learning, but also makes them feel that “remembering words and numbers is a fun and interesting thing.” Toysub! is based on this concept. According to each child's age and development stage, the difficulty of educational toys is replaced and upgraded every month. This not only cultivates interest in learning, but also helps extend children's potential in language, logic and other aspects. Through continuous, interesting and age-appropriate stimulation, children not only improve their cognitive and operational abilities, but also gradually build up good habits and self-confidence in active learning.",
+        "output": "In order to make children have a strong interest in things they find interesting, they can easily learn by being exposed to numbers and words through the process of playing with educational toys. Furthermore, we can expect that it will make children realize that 'memorizing letters and numbers is fun' and cultivate the idea that learning is fun. Toysub! will replace and upgrade the difficulty of educational toys every month as children grow up, helping to cultivate children's interests and extend their advantages, while also developing children's learning abilities.",
+        "TOPIC":"Key points for selecting toys for 4-year-olds"
+      },
+      {
+        "id":91,
+        "question": "I want to give my child toys for simple chess activities. Do you have any recommendations?",
+        "input": "Recommended toys for 4-year-olds: 1. Reversi Fisherman: This is a toy launched by Japanese toy manufacturer Woody Puddy that allows you to enjoy the fun of fishing and Reversi at the same time. The fishing game is slightly more difficult and helps improve concentration and manual dexterity. You can also play some simple battle games. Before playing Reversi, practicing 'following the rules of the game' and 'winning and losing' is also a learning subject.",
+        "output": "'Othello Fisherman' is a multifunctional learning toy that combines fishing and Othello, produced by the well-known Japanese brand Woody Puddy. This toy is designed to be challenging and can train children's hand-eye coordination and fine motor skills through the fishing action, improving their attention and concentration. At the same time, through a simple game of Reversi, children can learn the rules of the game, take turns, and accept winning and losing, which are important social and emotional education contents.",
+        "TOPIC":"Recommended toys for 4-year-olds (toys that help you develop your thinking skills while following the rules of the game)"
+      },
+      {
+        "id":92,
+        "question": "Are there any toys that can help children develop their thinking and interpersonal communication skills?",
+        "input": "Recommended toys for 4-year-olds: 2. Donut Stacking: There are a total of 15 donuts of the same size, and there are 3 ways to play! The first one is to place the same donuts as shown in the picture on the menu. Second, use the clips to stack the donuts together without letting them fall! Finally, in addition to the donut stacking and balancing game, you can also play house games and run a donut shop.",
+        "output": "We recommend 'Donut Stack': There are 15 donuts of the same size, and there are three ways to play. 1. Place the same donuts as shown in the pictures on the menu. 2. Use clips to stack the donuts together without letting them fall. 3. You can play house and run a donut shop. This game has the advantages of training children to think about how to balance objects, cultivate concentration and social skills.",
+        "TOPIC":"Recommended toys for 4-year-olds (toys that help you develop your thinking skills while following the rules of the game)"
+      },
+      {
+        "id":93,
+        "question": "What toys can help develop logical thinking, problem-solving skills, and concentration?",
+        "input": "Recommended toys for children over 5 years old: 1. Think logically about how to place the game coins to complete the path from the starting point to the goal, based on the number and type of game coins used, and the direction and distance that the game coins are suitable for. Can you move the ball to the finish line smoothly? While having fun, you can develop logical thinking and programming skills.",
+        "output": "The toy thinks logically about how to place the coins to complete the path from the starting point to the goal, based on the number and type of coins used, and the direction and distance the coins fit into. While having fun, children can develop logical thinking and simple programming skills.",
+        "TOPIC":"Suggested toys for children aged 5 and above (toys that develop logical thinking, problem-solving skills and concentration)"
+      },
+      {
+        "id":94,
+        "question": "What toys are recommended for children over 5 years old?",
+        "input": "Suggested toys for children over 5 years old: 2. Use the hammer to break the ice and don't let the penguin fall! Which ice cube you hit will determine the outcome of the game! The game is full of thrills and excitement, and it is an educational toy that requires balance and problems.",
+        "output": "We recommend this toy, use the hammer to break the ice and don't let the penguin fall! Which ice cube you hit will determine the outcome of the game! The game process is full of thrills and excitement, and it is an educational toy that can cultivate children's logical thinking, problem-solving skills and concentration.",
+        "TOPIC":"Suggested toys for children aged 5 and above (toys that develop logical thinking, problem-solving skills and concentration)"
+      },
+      {
+        "id":95,
+        "question": "Why is the age of 4 to 6 an important period for language development?",
+        "input": "Children aged 4 to 6 are in the preschool period, which is an important stage for the rapid development of language, sociality and cognitive abilities. His language ability has greatly improved: he can speak complete sentences, likes to tell stories and ask questions, and his vocabulary has increased rapidly. Logic and imagination begin to develop: they ask 'why', begin to understand the concepts of time (morning, evening), basic classification and sorting. In terms of social and emotional development, they begin to build peer relationships: they learn to make friends and value concepts like taking turns and sharing, but they still need guidance. Increased self-awareness: They will emphasize 'this is mine' and show self-assertion and emotional fluctuations. Need for affirmation and encouragement: Successful experiences can enhance self-confidence, while excessive blame can lead to retreat.",
+        "output": "Between the ages of 4 and 6, children's language skills develop rapidly. They can speak in complete sentences, their vocabulary has increased significantly, and they enjoy telling stories and asking questions, which are all signs of maturity in their language structure, expression, and comprehension abilities. In addition, they also begin to understand what others say and have more logical conversations, which has a key impact on future learning and social interaction.",
+        "TOPIC":"Characteristics of children aged 4-6"
+      },
+      {
+        "id":96,
+        "question": "Why do kids aged 4 to 6 love role playing?",
+        "input": "Children aged 4 to 6 are in the preschool period, which is an important stage for the rapid development of language, sociality and cognitive abilities. Their behavior patterns, psychological characteristics, and learning methods have all undergone obvious changes. Likes to imitate and role-play: for example, playing house, doctor games, shop games, etc. In terms of social and emotional development, they begin to build peer relationships: they learn to make friends and value concepts like taking turns and sharing, but they still need guidance. Increased self-awareness: They will emphasize 'this is mine' and show self-assertion and emotional fluctuations. Need for affirmation and encouragement: Successful experiences can enhance self-confidence, while excessive blame can lead to retreat. ",
+        "output": "Children at this stage have rich imagination and imitation ability. Role-playing games such as 'playing house', 'doctor game' and 'opening a shop' can help them imitate adult behavior and learn social roles and language interactions. This is not just a game, it is an important way for them to understand the social world and build empathy.",
+        "TOPIC":"Characteristics of children aged 4-6"
+      },
+      {
+        "id":97,
+        "question": "Why do children aged 4-6 particularly need affirmation and encouragement?",
+        "input": "Children aged 4 to 6 are in the preschool period, which is an important stage for the rapid development of language, sociality and cognitive abilities. There have been obvious changes in their behavior patterns, psychological characteristics, and learning methods. Among them, their language ability has greatly improved: they can speak complete sentences, like to tell stories and ask questions, and their vocabulary has increased rapidly. In terms of social and emotional development, they begin to build peer relationships: they learn to make friends and value concepts like taking turns and sharing, but they still need guidance. Increased self-awareness: They will emphasize 'this is mine' and show self-assertion and emotional fluctuations. Need for affirmation and encouragement: Successful experiences can enhance self-confidence, while excessive blame can lead to retreat.",
+        "output": "During the process of learning and trying, children need positive feedback and affirmation from adults, which will encourage them to continue exploring and build self-confidence. If they are frequently blamed or denied, it may reduce their initiative and self-esteem. Therefore, timely encouragement and successful experiences are crucial to their psychological development.",
+        "TOPIC":"Characteristics of children aged 4-6"
+      },
+      {
+        "id":98,
+        "question": "Why is it so important to establish a positive impression of learning in early childhood?",
+        "input": "It is crucial to establish positive learning impressions when your child is 4 years old. Through the game process of educational toys, children can naturally come into contact with numbers and words in a stress-free environment and discover the joy of learning through play. This method not only reduces children's resistance to learning, but also makes them feel that memorizing words and numbers is an interesting thing. Replacing and upgrading educational toys every month not only cultivates interest in learning, but also helps expand children's potential in language, logic and other aspects. Through continuous, interesting and age-appropriate stimulation, children not only improve their cognitive and operational abilities, but also gradually develop good habits and self-confidence in active learning.",
+        "output": "Because children’s first impression of learning will affect their future learning attitude and motivation. If children can feel that learning is easy and enjoyable through interesting games, they can reduce their aversion to learning and develop a proactive attitude towards exploration.",
+        "TOPIC":"Key points for selecting toys for 4-year-olds"
+      },
+      {
+        "id":99,
+        "question": "How do educational toys help with language and logic development?",
+        "input": "It is crucial to establish positive learning impressions in the early stages of a child's development. Through the game process of educational toys, such as counting, matching, classification, spelling, narration and other games, children's language comprehension and expression can be stimulated, while logical thinking and problem-solving skills are trained. Children can naturally come into contact with numbers and words in a stress-free environment and discover the fun of learning through play. This method not only reduces children’s resistance to learning, but also makes them feel that “memorizing words and numbers is fun and interesting.”",
+        "output": "Educational toys often include games such as counting, matching, classification, spelling, and narration, which can stimulate children's language comprehension and expression, while training logical thinking and problem-solving skills. They are important tools for inspiring multiple intelligences.",
+        "TOPIC":"Key points for selecting toys for 4-year-olds"
+      },
+      {
+        "id":100,
+        "question": "Why do we need to adjust the difficulty of toys according to the child’s age and development stage?",
+        "input": "The key to choosing toys for 4-year-old children: It is crucial to establish positive learning impressions in the early stages of a child's growth. Through the game process of educational toys, children can naturally come into contact with numbers and words and discover the joy of learning through play. Toy submarine! It is based on this concept. Change and upgrade the difficulty of educational toys every month according to each child's age and development stage. This not only cultivates interest in learning, but also helps expand children's potential in language, logic and other aspects. Children of different ages have different cognitive and operational abilities. Changing the difficulty of toys in time according to their development stage can avoid boredom or frustration. Through continuous, interesting and age-appropriate stimulation, children not only improve their cognitive and operational abilities, but also gradually establish good habits and self-confidence in active learning.",
+        "output": "Children of different ages have different cognitive and operational abilities. Changing the difficulty of toys according to their developmental stage can avoid boredom or frustration, maintain a sense of challenge and interest, and continue to stimulate the growth of the brain and skills.",
+        "TOPIC":"Key points for selecting toys for 4-year-olds"
+      }
+]
